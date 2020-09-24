@@ -1,8 +1,7 @@
 """
 Kaming Yip
-CS677 A1 Data Science with Python
 Apr. 10, 2020
-Final Project
+Anomaly Detection on Credit Card Transactions
 """
 
 import os
